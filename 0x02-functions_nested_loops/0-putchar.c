@@ -1,27 +1,25 @@
 /*
- * File: 0-holberton.c
- * Auth: Brennan D Baraban
+ * File: 0.putcher.c
  *
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - Prints "Holberton" followed by a new line.
+ * main - Prints "_putcher" followed by a new line.
  *
  * Return: Always 0.
  */
 int main(void)
 {
-	_putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('y');
+	_putchar('c');
+	_putchar('h');
 	_putchar('e');
 	_putchar('r');
-	_putchar('t');
-	_putchar('o');
-	_putchar('n');
 	_putchar('\n');
 
 	return (0);
