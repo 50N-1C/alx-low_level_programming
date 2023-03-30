@@ -12,15 +12,15 @@
  */
 int main(void)
 {
-	printf('_');
-	printf('p');
-	printf('u');
-	printf('y');
-	printf('c');
-	printf('h');
-	printf('e');
-	printf('r');
-	printf('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('y');
+	_putchar('c');
+	_putchar('h');
+	_putchar('e');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
